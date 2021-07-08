@@ -1,5 +1,5 @@
 "use strict";
-import images from "./app.js"
+import images from "./app.js";
 
 
 const refs = {
